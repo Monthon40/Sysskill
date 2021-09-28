@@ -1,0 +1,7 @@
+git status to check 
+git add "name"
+git commit -m "message here"
+git push origin <branchname>
+
+git checkout -b <newbranch>
+git checkout existing branch
