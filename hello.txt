@@ -8,3 +8,16 @@ git checkout existing branch
 
 Adding new repo to github using git bash
 https://docs.github.com/en/github/importing-your-projects-to-github/importing-source-code-to-github/adding-an-existing-project-to-github-using-the-command-line
+
+
+:x! to save vim
+vim filename = goes back to edit 
+i = insert mode
+gcc after every changes for c file
+chmod u=rwx <filename> for permission
+vim filename to create file
+scp -P 2222 -r <local path> <descination path> ---> for import file from window to linux server
+
+vim command
+ctrl-w to jump from one window to another
+y - operator yanks (copies) text, p puts (pastes) it.
