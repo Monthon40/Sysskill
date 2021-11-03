@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/uSeR/Desktop/dotProduct/dot.c" "C:/Users/uSeR/Desktop/dotProduct/cmake-build-debug/CMakeFiles/dotProduct.dir/dot.c.obj"
+  "C:/Users/uSeR/Desktop/sysskill/midterm/dotProduct/dot.c" "C:/Users/uSeR/Desktop/sysskill/midterm/dotProduct/cmake-build-debug/CMakeFiles/dotProduct.dir/dot.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

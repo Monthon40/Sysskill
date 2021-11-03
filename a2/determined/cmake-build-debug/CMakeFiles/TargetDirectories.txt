@@ -1,0 +1,3 @@
+C:/Users/uSeR/Desktop/sysskill/a2/determined/cmake-build-debug/CMakeFiles/determined.dir
+C:/Users/uSeR/Desktop/sysskill/a2/determined/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/uSeR/Desktop/sysskill/a2/determined/cmake-build-debug/CMakeFiles/rebuild_cache.dir

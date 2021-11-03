@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/uSeR/Desktop/sysskill/a2/tabutil/tabutil.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

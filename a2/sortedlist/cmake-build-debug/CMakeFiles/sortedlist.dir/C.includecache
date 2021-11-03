@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/uSeR/Desktop/sysskill/a2/sortedlist/list.c
+stdio.h
+-
+stdlib.h
+-
+list.h
+C:/Users/uSeR/Desktop/sysskill/a2/sortedlist/list.h
+string.h
+-
+
+C:/Users/uSeR/Desktop/sysskill/a2/sortedlist/list.h
+

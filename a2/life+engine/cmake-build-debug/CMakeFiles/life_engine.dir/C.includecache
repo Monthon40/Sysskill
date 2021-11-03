@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/uSeR/Desktop/sysskill/a2/life+engine/life_engine.c
+life_engine.h
+C:/Users/uSeR/Desktop/sysskill/a2/life+engine/life_engine.h
+
+C:/Users/uSeR/Desktop/sysskill/a2/life+engine/life_engine.h
+stdio.h
+-
+stdlib.h
+-
+assert.h
+-
+string.h
+-
+

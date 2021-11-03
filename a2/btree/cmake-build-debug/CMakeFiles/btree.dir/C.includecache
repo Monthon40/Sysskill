@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/uSeR/Desktop/sysskill/a2/btree/btree.c
+stdlib.h
+-
+stdio.h
+-
+btree.h
+C:/Users/uSeR/Desktop/sysskill/a2/btree/btree.h
+
+C:/Users/uSeR/Desktop/sysskill/a2/btree/btree.h
+

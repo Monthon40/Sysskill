@@ -1,0 +1,3 @@
+C:/Users/uSeR/Desktop/sysskill/a2/MergeSort/cmake-build-debug/CMakeFiles/MergeSort.dir
+C:/Users/uSeR/Desktop/sysskill/a2/MergeSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/uSeR/Desktop/sysskill/a2/MergeSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
