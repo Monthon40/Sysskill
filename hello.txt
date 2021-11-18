@@ -21,3 +21,12 @@ scp -P 2222 -r <local path> <descination path> ---> for import file from window 
 vim command
 ctrl-w to jump from one window to another
 y - operator yanks (copies) text, p puts (pastes) it.
+
+cd home/u6280184
+
+Submit homework
+0 login and go to \handin\a(x) and mkdir u6280184
+1 logout from syskill server
+2 change path to Desktop
+3 copy .zip file to desktop
+4 scp -P2222 a2.zip u6280184@syskill.cs.muzoo.io:/handin/a2/6280184
