@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/uSeR/Desktop/test2/isPrime.c" "C:/Users/uSeR/Desktop/test2/cmake-build-debug/CMakeFiles/test2.dir/isPrime.c.obj"
+  "C:/Users/uSeR/Desktop/sysskill/midterm/isPrime/isPrime.c" "C:/Users/uSeR/Desktop/sysskill/midterm/isPrime/cmake-build-debug/CMakeFiles/test2.dir/isPrime.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

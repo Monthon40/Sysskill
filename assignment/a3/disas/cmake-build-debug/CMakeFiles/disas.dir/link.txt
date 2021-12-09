@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\disas.dir/objects.a
+"D:\Program Files (x86)\mingw64\bin\ar.exe" cr CMakeFiles\disas.dir/objects.a @CMakeFiles\disas.dir\objects1.rsp
+"D:\Program Files (x86)\mingw64\bin\gcc.exe" -g -Wl,--whole-archive CMakeFiles\disas.dir/objects.a -Wl,--no-whole-archive -o disas.exe -Wl,--out-implib,libdisas.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\disas.dir\linklibs.rsp

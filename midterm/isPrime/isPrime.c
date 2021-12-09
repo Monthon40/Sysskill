@@ -25,7 +25,7 @@ int IsPrime(int n) {
 int main() {
     printf("%d\n", IsPrime(97));
     printf("%d\n", IsPrime(3));
-    printf("%d\n", IsPrime(23));
-    printf("%d\n", IsPrime(9));
+    printf("%d\n", IsPrime(14));
+    printf("%d\n", IsPrime(6));
     return 0;
 }

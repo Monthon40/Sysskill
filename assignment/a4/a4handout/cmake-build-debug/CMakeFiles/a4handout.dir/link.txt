@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\a4handout.dir/objects.a
+"D:\Program Files (x86)\mingw64\bin\ar.exe" cr CMakeFiles\a4handout.dir/objects.a @CMakeFiles\a4handout.dir\objects1.rsp
+"D:\Program Files (x86)\mingw64\bin\gcc.exe" -g -Wl,--whole-archive CMakeFiles\a4handout.dir/objects.a -Wl,--no-whole-archive -o a4handout.exe -Wl,--out-implib,liba4handout.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\a4handout.dir\linklibs.rsp
